@@ -100,8 +100,8 @@ The API engine will be running at `http://localhost:8000`.
 ## 👥 Project Team &amp; Supervision
 
 * **Student Team**:
-  * **Fayzan Mahmood** (Registration No: CIIT/SP22-BCS-053/ISB)
-  * **Ifra Ahmed** (Registration No: CIIT/SP22-BCS-063/ISB)
+  * **Fayzan Mahmood** (Registration No: CIIT/FA23-BCS-046)
+  * **Ifra Ahmed** (Registration No: CIIT/FA23-BCS-173)
 * **Supervised By**: **Ms. Maha Rasheed**
 * **Department**: Department of Computer Science, COMSATS University Islamabad (CUI)
 
